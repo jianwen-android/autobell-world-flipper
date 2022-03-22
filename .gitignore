@@ -1,0 +1,9 @@
+test/
+.vscode
+__pycache__
+world-flipper
+.autoenv
+.autoenv.leave
+
+.python-version
+testButton.py
